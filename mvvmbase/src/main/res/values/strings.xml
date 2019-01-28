@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvptemplates</string>
+    <string name="empty_view_text">Empty</string>
+    <string name="action_search">Search</string>
+</resources>
